@@ -1,0 +1,1 @@
+ WordPress is a very popular piece of software and it’s for this reason that it is highly targeted by those looking to hack your website. There are a bunch of ways to protect your WordPress Website from being hacked and I’ve covered some of the best practices in other articles but in this post I will show you how to Secure your WordPress Website using your .htaccess file.
