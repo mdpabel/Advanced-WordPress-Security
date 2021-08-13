@@ -346,3 +346,8 @@
     # End Abuse HTTP Referrer Blocking
     RewriteRule ^.* - [F,L]
     # End HackRepair.com Blacklist, http://pastebin.com/u/hackrepair
+
+
+#Useful links :
+-https://www.pixemweb.com/
+-http://mdpabel.me
